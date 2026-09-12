@@ -33,16 +33,18 @@ The output of Instumentation amplifier is given by
 
 
   **CIRCUIT DIAGRAM**
-
+**TABULATION:**
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-12 at 8 04 16 PM" src="https://github.com/user-attachments/assets/086a43b8-96d2-4a10-9fa5-b3d95b63a1a1" />
 
   **MODEL GRAPH:**
 
+<img width="1430" height="1599" alt="WhatsApp Image 2026-09-12 at 8 04 16 PM (1)" src="https://github.com/user-attachments/assets/3b303bb5-1bbc-4a1e-8cb0-cdf395cfea72" />
 
-  **TABULATION:**
+  
  
 
-**MODEL CALCULATION:**
-
+**RESULT**
+Thus,an Instrumentation amplifier was constructed and tested using op-amp
 
 
 **RESULT:**
