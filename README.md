@@ -40,6 +40,9 @@ The output of Instumentation amplifier is given by
 
 <img width="1430" height="1599" alt="WhatsApp Image 2026-09-12 at 8 04 16 PM (1)" src="https://github.com/user-attachments/assets/3b303bb5-1bbc-4a1e-8cb0-cdf395cfea72" />
 
+**graph**
+
+<img width="3072" height="4080" alt="1000123223" src="https://github.com/user-attachments/assets/122bdea3-1388-4634-8849-95804945966f" />
 
 **RESULT:**
 Thus a Instrumentation Amplifier was implemented using op-amp IC 741.
